@@ -6,7 +6,7 @@
 I am a web and mobile developer, I spend my time doing freelance for small businesses, and develop tech solutions based on customer needs. Experienced in JavaScript-based programming, such as ReactJS, React Native and Redux. I'm committed to always learn new languages, frameworks and libraries!
 
 <div align="center">
-<a href="www.linkedin.com/in/piersalvo-migliore-449a85235">
+<a href="https://www.linkedin.com/in/piersalvo-migliore-449a85235">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
 <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=piersalvomiglioreapps@gmail.com">
