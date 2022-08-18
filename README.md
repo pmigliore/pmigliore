@@ -1,5 +1,6 @@
 
-[![MasterHead](https://www.canva.com/design/DAFJsw2NXVU/YhZjclK92BZvGjLckzyJAw/edit?utm_content=DAFJsw2NXVU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://github.com/pmigliore)
+
+<img src="https://www.canva.com/design/DAFJsw2NXVU/YhZjclK92BZvGjLckzyJAw/edit?utm_content=DAFJsw2NXVU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="header" />
 
 ### About Me
 
