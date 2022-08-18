@@ -5,7 +5,7 @@
 
 I am a web and mobile developer, I spend my time doing freelance for small businesses, and develop tech solutions based on customer needs. Experienced in JavaScript-based programming, such as ReactJS, React Native and Redux. I'm committed to always learn new languages, frameworks and libraries!
 
-<p align="center">
+<div align="center">
 	
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 	
@@ -29,4 +29,4 @@ I am a web and mobile developer, I spend my time doing freelance for small busin
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-</p>
+</div>
