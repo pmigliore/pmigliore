@@ -1,5 +1,5 @@
 
-[![MasterHead](https://github.com/pmigliore/pmigliore/blob/main/header.png)](https://github.com/pmigliore)
+[![MasterHead](https://www.canva.com/design/DAFJsw2NXVU/YhZjclK92BZvGjLckzyJAw/edit?utm_content=DAFJsw2NXVU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://github.com/pmigliore)
 
 ### About Me
 
@@ -31,6 +31,7 @@ I am a web and mobile developer, I spend my time doing freelance for small busin
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 <img src="https://img.shields.io/badge/material--ui-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="material ui" />
 <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="firebase" />
 </div>
 
 
