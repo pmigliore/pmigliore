@@ -1,6 +1,8 @@
-
+<div align="center">
+  
 [![MasterHead](./github-header-image.png)](https://github.com/pmigliore)
 
+  </div>
 
 
 ### About Me
