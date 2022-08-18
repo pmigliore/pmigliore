@@ -1,4 +1,3 @@
-### Hi there 👋
 
 [![MasterHead](https://github.com/pmigliore/pmigliore/blob/main/header.png)](https://github.com/pmigliore)
 
