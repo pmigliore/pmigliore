@@ -3,4 +3,4 @@
 
 About Me
 
-I am a web and mobile developer, I spend my time doing freelance for small businesses, and develop tech solutions based on customer needs. Experience in JavaScript-based programming, such as ReactJS, React Native and Redux. I'm committed to always learn new languages, frameworks and libraries!
+I am a web and mobile developer, I spend my time doing freelance for small businesses, and develop tech solutions based on customer needs. Experienced in JavaScript-based programming, such as ReactJS, React Native and Redux. I'm committed to always learn new languages, frameworks and libraries!
